@@ -1,0 +1,26 @@
+
+
+p {
+	font-size: 40px;
+}
+
+
+.row {
+	text-align: center;
+}
+
+
+span {
+	font-size: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.black {
+	background-color: #999;
+	height: 60px;
+}
+
+.opponent {
+	color: #f75454;
+}
